@@ -1,0 +1,2 @@
+A pipeline using 2014-2024 seasons of the premier league as a training set to predict the 2024/25 season as validation set. The output of this pipeline features predictions in percentages for the likelihood of each result of each match in the season. Metrics are given to measure accuracy, calibration etc. to evaluate the output given.
+Use the terminal to run, list of requirements have been shared.
